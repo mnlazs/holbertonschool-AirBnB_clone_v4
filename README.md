@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Manuel Zambrano - [Gituhub](https://github.com/mnlazs) / [Twitter](https://twitter.com/mnlazs)
+
 Zach Gamble - [Github](https://github.com/)
 
 ### Colab
