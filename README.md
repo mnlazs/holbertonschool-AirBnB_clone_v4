@@ -154,8 +154,10 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Manuel Zambrano - [Gituhub](https://github.com/mnlazs)
+Manuel Zambrano - [Gituhub](https://github.com/mnlazs) / [Twitter](https://twitter.com/mnlazs)
 Zach Gamble - [Github](https://github.com/)
+
+### Colab
 
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
