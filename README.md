@@ -154,9 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Manuel Zambrano - [Gituhub](https://github.com/mnlazs) / [Twitter](https://twitter.com/mnlazs)
+Manuel Zambrano - [Gituhub](https://github.com/mnlazs)
 
-Zach Gamble - [Github](https://github.com/)
+Zach Gamble - [Github](https://github.com/zgamble30)
 
 ### Colab
 

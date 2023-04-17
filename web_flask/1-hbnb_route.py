@@ -10,9 +10,9 @@ def hello_hbnb():
     return 'Hello HBNB!'
 
 
-@app.route('/hbnb', strict_slashes=False)
+@app.route('/1-hbnb', strict_slashes=False)
 def hbnb():
-    """ Prints a Message when /hbnb is called """
+    """ Prints a Message when /1-hbnb is called """
     return 'HBNB'
 
 if __name__ == "__main__":
